@@ -1,1 +1,2 @@
- contruyendo el readme
+ construyendo el readme
+construyendo app.js
