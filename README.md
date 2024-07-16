@@ -1,2 +1,3 @@
 -construyendo el readme
 -construyendo app.js
+-actualización readme git pull
